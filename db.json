@@ -1,0 +1,34 @@
+{
+    "cities-autcomplete": [
+        {
+            "postalCode": "21000",
+            "placeName": "Dijon",
+            "countryCode": "FR",
+            "id": 7619
+        },
+        {
+            "postalCode": "21121",
+            "placeName": "Hauteville-lès-Dijon",
+            "countryCode": "FR",
+            "id": 7761
+        },
+        {
+            "postalCode": "21121",
+            "placeName": "Fontaine-lès-Dijon",
+            "countryCode": "FR",
+            "id": 7764
+        },
+        {
+            "postalCode": "21160",
+            "placeName": "Perrigny-lès-Dijon",
+            "countryCode": "FR",
+            "id": 7823
+        },
+        {
+            "postalCode": "21370",
+            "placeName": "Plombières-lès-Dijon",
+            "countryCode": "FR",
+            "id": 8134
+        }
+    ]
+}
